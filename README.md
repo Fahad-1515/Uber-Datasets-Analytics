@@ -1,25 +1,25 @@
-#Uber-Datasets-Analytics 
+# Uber-Datasets-Analytics 
 
 
 
-##Project Goal
+## Project Goal
 
 Uber Ride Cancellation Analysis Dashboard
 
-Project Overview
+## Project Overview
 
 To identify patterns and root causes behind ride cancellations to help Uber reduce their frequency and improve operational efficiency.
 
-Data Source
+## Data Source
 
 Uber Dataset from Kaggle
 https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard/data
 
-Tools
+## Tools
 
 MS SQL Server
 
-Objectives
+## Objectives
 
 ● Clean the ride bookings dataset to handle missing values, inconsistencies, and errors in
 records related to cancellations.
@@ -32,7 +32,7 @@ behind ride cancellations.
 ● Derive actionable insights to help Uber reduce cancellation rates, improve driver-rider
 matching, and enhance overall platform efficiency.
 
-Data Analysis
+## Data Analysis
 
 ● What is the overall cancellation rate, and what is the split between driver and rider
 cancellations?
@@ -51,14 +51,15 @@ By Month/Season: Are there seasonal trends (e.g., more cancellations in rainy se
 
 ● Is there a correlation between the estimated fare and cancellation rate?
 
-Future Scope
+## Future Scope
 
 ● Use the dataset to analyze the impact of policy changes, such as introducing a cancellation fee
 or a new driver incentive program.
 
 ● Analyze the impact of cancellation chains (e.g., a driver cancelling leading to a rider cancelling
 another ride).
-Conclusion
+
+## Conclusion
 
 ● Interactive Dashboard can be Develop for real-time dashboard for operations managers to
 monitor cancellation hotspots and trends as they happen, enabling proactive measures.
