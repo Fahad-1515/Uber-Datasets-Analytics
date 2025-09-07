@@ -39,10 +39,6 @@ cancellations?
 
 ● How does the cancellation rate vary by time?
 
-By Hour of Day: Is it higher during rush hour, late nights, or specific times?
-
-By Day of Week: Are weekends different from weekdays?
-
 By Month/Season: Are there seasonal trends (e.g., more cancellations in rainy season)?
 
 ● Are there geographical patterns to cancellations?
