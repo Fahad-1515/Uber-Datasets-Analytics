@@ -45,8 +45,6 @@ By Month/Season: Are there seasonal trends (e.g., more cancellations in rainy se
 
 ● Which specific reasons are most commonly cited for cancellations?
 
-● Is there a correlation between the estimated fare and cancellation rate?
-
 ## Future Scope
 
 ● Use the dataset to analyze the impact of policy changes, such as introducing a cancellation fee
