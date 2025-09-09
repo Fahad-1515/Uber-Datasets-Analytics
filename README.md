@@ -58,9 +58,22 @@ another ride).
 ● Interactive Dashboard can be Develop for real-time dashboard for operations managers to
 monitor cancellation hotspots and trends as they happen, enabling proactive measures.
 
-● By rigorously cleaning the data and addressing inconsistencies, this project provides a reliable
-foundation for analysis. The insights derived—such as pinpointing high-cancellation hours,
-locations, and the critical impact of ETA offer a clear roadmap for strategic decision-making.
-Implementing data-driven solutions based on these findings can directly lead to reduced
-operational inefficiencies, increased driver and rider satisfaction, and higher revenue retention
-for the platform.
+● Booking Status: Most rides are completed, but there's a significant number of cancellations by both drivers and customers.
+
+● Vehicle Types: Go Mini and Auto are the most commonly used vehicle types for completed rides.
+
+● Cancellation Reasons:
+
+● Customers mostly cancel because "Driver is not moving towards pickup location"
+
+● Drivers mostly cancel due to "Customer related issues" and "Personal & Car related issues"
+
+● Temporal Patterns:
+
+● Peak booking hours are in the evening (around 6 PM)
+
+● Weekdays see more bookings than weekends
+
+● ## Payment Methods: UPI is the most popular payment method, followed by Cash.
+
+● ## Pricing: There's a strong positive correlation between ride distance and booking value.
