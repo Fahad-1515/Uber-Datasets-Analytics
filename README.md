@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard/data
 
 ## Tools
 
-MS SQL Server
+MS SQL Server / Excel / python
 
 ## Objectives
 
