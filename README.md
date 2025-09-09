@@ -39,7 +39,7 @@ cancellations?
 
 ● How does the cancellation rate vary by time?
 
-By Month/Season: Are there seasonal trends (e.g., more cancellations in rainy season)?
+● By Month/Season: Are there seasonal trends (e.g., more cancellations in rainy season)?
 
 ● Are there geographical patterns to cancellations?
 
@@ -58,22 +58,30 @@ another ride).
 ● Interactive Dashboard can be Develop for real-time dashboard for operations managers to
 monitor cancellation hotspots and trends as they happen, enabling proactive measures.
 
-● Booking Status: Most rides are completed, but there's a significant number of cancellations by both drivers and customers.
+## Booking Status
 
-● Vehicle Types: Go Mini and Auto are the most commonly used vehicle types for completed rides.
+● Most rides are completed, but there's a significant number of cancellations by both drivers and customers.
 
-● Cancellation Reasons:
+## Vehicle Types: 
+
+● Go Mini and Auto are the most commonly used vehicle types for completed rides.
+
+## Cancellation Reasons:
 
 ● Customers mostly cancel because "Driver is not moving towards pickup location"
 
 ● Drivers mostly cancel due to "Customer related issues" and "Personal & Car related issues"
 
-● Temporal Patterns:
+## Temporal Patterns
 
 ● Peak booking hours are in the evening (around 6 PM)
 
 ● Weekdays see more bookings than weekends
 
-● ## Payment Methods: UPI is the most popular payment method, followed by Cash.
+## Payment Methods 
 
-● ## Pricing: There's a strong positive correlation between ride distance and booking value.
+● UPI is the most popular payment method, followed by Cash.
+
+## Pricing
+
+● There's a strong positive correlation between ride distance and booking value.
