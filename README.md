@@ -80,4 +80,4 @@ monitor cancellation hotspots and trends as they happen, enabling proactive meas
 
 ## Pricing
 
-● There's a strong positive correlation between ride distance and booking value.
+● There's a strong positive correlation between ride distance and booking value..
